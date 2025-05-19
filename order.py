@@ -7,7 +7,7 @@ class Order:
         self.coffee = coffee
         self.price = float(price)
 
-if _name_ == "_main_":
+if '_name_' == "_main_":
   
     customer = Customer("Deno")
     coffee = Coffee("latte")
